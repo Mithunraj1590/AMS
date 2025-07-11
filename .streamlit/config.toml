@@ -1,0 +1,13 @@
+[theme]
+base="light"
+primaryColor="#4F8BF9"
+backgroundColor="#F5F6FA"
+secondaryBackgroundColor="#E3E8F0"
+textColor="#222222"
+font="sans serif"
+
+[server]
+headless = true
+
+[client]
+showSidebarNavigation = true 
